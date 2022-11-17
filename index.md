@@ -16,6 +16,7 @@ Many of the challenges will require the use of R Studio. In this course we will 
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity4.pdf"> Exploring Avocados </a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity5.pdf"> Exploring Penguins </a> </li>    
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity6.pdf"> Exploring Heart Disease </a> </li>  
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity7.pdf"> Exploring Books </a> </li>
       </ul>
 </p>   
 
