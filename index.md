@@ -19,7 +19,7 @@ Many of the challenges will require the use of R Studio. In this course we will 
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity7.pdf"> Exploring Books </a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity8.pdf"> Exploring Cardio Fitness </a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity9.pdf"> Exploring Unicorn Companies </a> </li>
-        <!---  <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity10.pdf"> Exploring Video Games </a> </li> --->
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity10.pdf"> Exploring Video Games </a> </li> 
       </ul>
 </p>   
 
