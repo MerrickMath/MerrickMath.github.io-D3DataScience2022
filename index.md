@@ -24,6 +24,7 @@ Many of the challenges will require the use of R Studio. In this course we will 
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/ResearchProject.pdf"> Research Project </a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity13.pdf"> Exploring Big Macs </a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity12.pdf"> Exploring Fortnite </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity14.pdf"> Exploring Happiness </a> </li>
       </ul>
 </p>   
 
