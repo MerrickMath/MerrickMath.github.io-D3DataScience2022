@@ -7,6 +7,7 @@ Many of the challenges will require the use of R Studio. In this course we will 
 ---
 
 ### Assignments
+<!--- 
 <p>
       <ul>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/SuperHeroIntro.pdf"> Super Hero Intro </a> </li> 
@@ -28,6 +29,7 @@ Many of the challenges will require the use of R Studio. In this course we will 
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity15.pdf"> Exploring A Bakery </a> </li>
       </ul>
 </p>   
+---> 
 
 ### In Class R Files 
 <p>
@@ -39,6 +41,7 @@ Many of the challenges will require the use of R Studio. In this course we will 
 ---
 
 
+<!---
 ### MiniMath
 
 <p>
@@ -51,6 +54,7 @@ Many of the challenges will require the use of R Studio. In this course we will 
         <li> <a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/MiniMath/Week3Soln.pdf">  Week 3 Solutions </a> </li>
       </ul>
 </p>
+---> 
 
 
 
