@@ -32,11 +32,13 @@ Many of the challenges will require the use of R Studio. In this course we will 
 ---> 
 
 ### In Class R Files 
+<!--- 
 <p>
       <ul>
             <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/RFiles/Week1.R"> September 15 </a> </li>
       </ul>
 </p>
+---> 
 
 ---
 
