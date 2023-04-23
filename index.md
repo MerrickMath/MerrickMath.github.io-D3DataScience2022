@@ -10,7 +10,7 @@ Many of the challenges will require the use of R Studio. In this course we will 
 <p>
       <ul> 
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/FastFood.pdf"> Fast Food  </a> </li>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Concussions.pdf"> Football Concussions  </a> </li>   
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Concussion.pdf"> Football Concussions  </a> </li>   
       </ul>   
 </p> 
 
